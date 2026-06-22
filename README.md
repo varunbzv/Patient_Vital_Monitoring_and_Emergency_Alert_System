@@ -32,4 +32,4 @@ Test Capture System
 For testing, the program can record a section of the output automatically to check system behavior during a specific time.
 
 The system acts like a smart monitor — not just reading values,
-but analyzing trends and decid
+but analyzing trends and deciding intelligently whether the patient is safe or in danger.
